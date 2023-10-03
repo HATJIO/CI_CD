@@ -1,0 +1,3 @@
+# Bartosz GIT CI/CD cursus
+Hier staat de informatie die nodig is om dit te begrijpen.
+Echter heb ik de 21ste van september geen Earth wind and fire geluisterd...
