@@ -1,3 +1,5 @@
 # Bartosz GIT CI/CD cursus
-Hier staat de informatie die nodig is om dit te begrijpen.
+Waar kijk je naar G! Hier niks te vinden. \n\n
+
+
 ![Alt text](image.png)
